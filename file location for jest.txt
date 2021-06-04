@@ -1,1 +1,1 @@
-cd Documents\GitHub\JavaScript - Database and Algorithm\exercises
+cd Documents\GitHub\JavaScript - Data Structure and Algorithm\exercises
